@@ -15,7 +15,7 @@ finish features across multiple git repositories`,
 }
 
 // Execute adds all child commands to the root command and sets flags appropriately.
-// This is called by mfr.go.mfr.go(). It only needs to happen once to the rootCmd.
+// This is called by mrf.go.mrf.go(). It only needs to happen once to the rootCmd.
 func Execute() {
 	err := rootCmd.Execute()
 	if err != nil {

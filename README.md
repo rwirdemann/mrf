@@ -5,5 +5,5 @@ Multi Repository Feature is a CLI tool to create and manage features branches ac
 ## Usage
 
 ```shell
-mfr --help
+mrf --help
 ```
